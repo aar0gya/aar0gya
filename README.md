@@ -42,26 +42,6 @@ I enjoy solving problems through code, experimenting with modern technologies, a
 
 ---
 
-## 📈 GitHub Stats & Activity
-
-### 🔥 Contributions & Streak  
-> Using **reliable Vercel-hosted forks** (these never fail due to rate limits)
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=aar0gya&theme=tokyonight" />
-</p>
-
-### 📊 Overall Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aar0gya&show_icons=true&theme=tokyonight" />
-</p>
-
-### 🧠 Top Languages  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aar0gya&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ### 💬 Connect With Me  
 📧 **Email:** aarogyabikramthapa@gmail.com  
