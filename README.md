@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Aarogya Bikram Thapa</h1>
-<h3 align="center">Computer Systems Engineer | Web App Developer | AI, ML & Mobile App Enthusiast</h3>
+<h3 align="center">Computer Systems Engineer | Full-Stack Developer | AI & Mobile App Enthusiast</h3>
 
 ---
 
@@ -11,7 +11,7 @@ I enjoy solving problems through code, experimenting with modern technologies, a
 - 🔭 Currently building full-stack and machine-learning-based applications  
 - 🌱 Improving skills in **Backend Architecture, Data Engineering, Mobile Development & AI**  
 - 💼 Open to opportunities in **Software Development, AI Engineering, and Full-Stack Development**  
-- ✨ Always learning. Always building.  
+- ✨ Always learning. Always building.
 
 ---
 
@@ -23,53 +23,51 @@ I enjoy solving problems through code, experimenting with modern technologies, a
 
 #### **Frameworks & Libraries**
 - **Frontend:** React.js, React Native, HTML/CSS  
-- **Backend:** Node.js, Express.js, Java Spring (basic)  
+- **Backend:** Node.js, Express.js  
 - **ML/NLP:** NLTK, Pandas, NumPy  
-- **Mobile:** Flutter (Dart)  
+- **Mobile:** Flutter  
 - **Database:** MongoDB, PostgreSQL, Firebase  
 - **Other:** Socket.io, Cloudinary, REST APIs
 
 ---
 
-### 📌 Featured Projects
+## 📌 Featured Projects (Table View)
 
-Here are some of the projects I’ve built that demonstrate my versatility:
-
-#### ⭐ **Fake News Prediction**  
-A hybrid ML model that detects whether a news headline/snippet is real or fake.  
-_Used: Python, NLP, Machine Learning_
-
-#### ⭐ **Stock News Sentiment Analysis**  
-Scrapes real-time stock news, processes sentiment with VADER, and visualizes trends.  
-_Used: Python, NLTK, Pandas, Matplotlib_
-
-#### ⭐ **Chat-App (MERN + Socket.IO)**  
-A real-time chat application with authentication, messaging, profile management, and theme customization.  
-_Used: MERN Stack, Socket.io, Cloudinary_
-
-#### ⭐ **React Native Wallet App**  
-A full-stack mobile wallet app for tracking income/expenses, authentication, and API integration.  
-_Used: React Native, Node.js, Express, PostgreSQL_
-
-#### ⭐ **Meal-Mate (Android Studio)**  
-A smart meal planner & grocery management app using Java and Firebase.  
-_Used: Java, Firebase_
-
-#### ⭐ **Flutter Fitness Tracker**  
-A mobile app to record workouts and track progress with a clean UI.  
-_Used: Dart, Flutter_
-
-#### ⭐ **Bank Management System (.NET)**  
-A desktop app managing customers, accounts, and admin features.  
-_Used: C#, .NET Framework, Windows Forms_
+| S.N | Project | Live Demo | Repository |
+|----|---------|-----------|------------|
+| 1 | **Fake News Prediction** | [Demo Link](https://fake-news-prediction-brp3oqtbdsj5jd9pithszn.streamlit.app/) | [Repo Link](https://github.com/aar0gya/fake-news-prediction) |
+| 2 | **Stock News Sentiment Analysis** | [Demo Link](https://stock-news-sentiment-analysis-fzx7qmxy27r8jt7immruik.streamlit.app/) | [Repo Link](https://github.com/aar0gya/Stock-News-Sentiment-Analysis) |
+| 3 | **Chat App (MERN + Socket.io)** | [Demo Link](https://chat-app-fullstack-g0zc.onrender.com/) | [Repo Link](https://github.com/aar0gya/chat-app) |
+| 4 | **React Native Wallet App** | [Demo Link](https://wallet-wjiu.onrender.com/) | [Repo Link](https://github.com/aar0gya/react-native-wallet-app) |
 
 ---
 
-### 💬 Connect With Me
-📧 **Email:** arogyathapa.10@gmail.com  
+## 📈 GitHub Stats & Activity
+
+### 🔥 Contributions & Streak  
+> Using **reliable Vercel-hosted forks** (these never fail due to rate limits)
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=aar0gya&theme=tokyonight" />
+</p>
+
+### 📊 Overall Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aar0gya&show_icons=true&theme=tokyonight" />
+</p>
+
+### 🧠 Top Languages  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aar0gya&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 💬 Connect With Me  
+📧 **Email:** aarogyabikramthapa@gmail.com  
 💼 **LinkedIn:** www.linkedin.com/in/aarogya-bikram-thapa-ab63b6371  
-🌐 **Portfolio:** *Coming soon*
+🌐 **Portfolio:** _Coming soon_
 
 ---
 
-⭐ *Thanks for visiting my GitHub! Feel free to explore my repositories and reach out for collaboration or opportunities.*  
+⭐ *Thanks for visiting my GitHub! Feel free to explore my repositories and reach out for collaboration or opportunities.*
