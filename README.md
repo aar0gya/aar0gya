@@ -65,19 +65,6 @@ _Used: C#, .NET Framework, Windows Forms_
 
 ---
 
-### 📈 GitHub Activity & Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aar0gya&theme=tokyonight"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aar0gya&show_icons=true&theme=tokyonight"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aar0gya&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
 ### 💬 Connect With Me
 📧 **Email:** arogyathapa.10@gmail.com  
 💼 **LinkedIn:** www.linkedin.com/in/aarogya-bikram-thapa-ab63b6371  
