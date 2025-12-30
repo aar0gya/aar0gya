@@ -38,7 +38,7 @@ I enjoy solving problems through code, experimenting with modern technologies, a
 | 1 | **Fake News Prediction** | [Demo Link](https://fake-news-prediction-brp3oqtbdsj5jd9pithszn.streamlit.app/) | [Repo Link](https://github.com/aar0gya/fake-news-prediction) |
 | 2 | **Stock News Sentiment Analysis** | [Demo Link](https://stock-news-sentiment-analysis-fzx7qmxy27r8jt7immruik.streamlit.app/) | [Repo Link](https://github.com/aar0gya/Stock-News-Sentiment-Analysis) |
 | 3 | **Chat App (MERN + Socket.io)** | [Demo Link](https://chat-app-fullstack-g0zc.onrender.com/) | [Repo Link](https://github.com/aar0gya/chat-app) |
-| 4 | **React Native Wallet App** | [Demo Link](https://wallet-wjiu.onrender.com/) | [Repo Link](https://github.com/aar0gya/react-native-wallet-app) |
+| 4 | **Quizzy - Quiz Game** | [Demo Link](https://quizzy-j6cz.onrender.com) | [Repo Link](https://github.com/aar0gya/quizzy) |
 
 ---
 
