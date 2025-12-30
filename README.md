@@ -47,7 +47,7 @@ I enjoy solving problems through code, experimenting with modern technologies, a
 📧 **Email:** thapaaarogyabikram@gmail.com
 💼 **LinkedIn:** www.linkedin.com/in/aarogya-bikram-thapa-ab63b6371  
 🌐 **Portfolio:**
-https://myportfolio-kappa-livid-43.vercel.app/#projects
+https://myportfolio-kappa-livid-43.vercel.app/
 
 ---
 
