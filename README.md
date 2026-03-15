@@ -39,6 +39,7 @@ I enjoy solving problems through code, experimenting with modern technologies, a
 | 2 | **Stock News Sentiment Analysis** | [Demo Link](https://stock-news-sentiment-analysis-fzx7qmxy27r8jt7immruik.streamlit.app/) | [Repo Link](https://github.com/aar0gya/Stock-News-Sentiment-Analysis) |
 | 3 | **Chat App (MERN + Socket.io)** | [Demo Link](https://chat-app-fullstack-g0zc.onrender.com/) | [Repo Link](https://github.com/aar0gya/chat-app) |
 | 4 | **Quizzy - Quiz Game** | [Demo Link](https://quizzy-j6cz.onrender.com) | [Repo Link](https://github.com/aar0gya/quizzy) |
+| 5 | **APEX KICKS - Premium Sneaker Store** | [Demo Link](https://apex-kicks.vercel.app/) | [Repo Link](https://github.com/aar0gya/apex-kicks) |
 
 ---
 
