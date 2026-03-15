@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Aarogya Bikram Thapa</h1>
-<h3 align="center">Computer Systems Engineer | Full-Stack Developer | AI & Mobile App Enthusiast</h3>
+<h3 align="center">Computer Systems Engineer | Web Developer | AI & Mobile App Enthusiast</h3>
 
 ---
 
@@ -25,13 +25,13 @@ I enjoy solving problems through code, experimenting with modern technologies, a
 - **Frontend:** React.js, React Native, HTML/CSS  
 - **Backend:** Node.js, Express.js  
 - **ML/NLP:** NLTK, Pandas, NumPy  
-- **Mobile:** Flutter  
+- **Mobile:** Expo 
 - **Database:** MongoDB, PostgreSQL, Firebase  
 - **Other:** Socket.io, Cloudinary, REST APIs
 
 ---
 
-## 📌 Featured Projects (Table View)
+## 📌 Featured Projects
 
 | S.N | Project | Live Demo | Repository |
 |----|---------|-----------|------------|
