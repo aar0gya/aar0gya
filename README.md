@@ -176,7 +176,7 @@ Mobile-responsive **quiz platform** with multiple subjects, animated UI, sound e
 
 ---
 
-🎯 What I Bring
+## 🎯 What I Bring
 
 ✅ Strong foundation in Machine Learning & Data Science
 
