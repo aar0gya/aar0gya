@@ -176,12 +176,6 @@ Mobile-responsive **quiz platform** with multiple subjects, animated UI, sound e
 
 ---
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=Open%20to%20Opportunities%20—%20Let's%20Build%20Something%20Great&fontSize=14&fontColor=a78bfa&fontAlignY=65" />
-
-</div>
-
 🎯 What I Bring
 
 ✅ Strong foundation in Machine Learning & Data Science
@@ -191,3 +185,10 @@ Mobile-responsive **quiz platform** with multiple subjects, animated UI, sound e
 ✅ Experience with real-world problem solving using data
 
 ✅ Clean, scalable, and production-ready code practices
+
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=Open%20to%20Opportunities%20—%20Let's%20Build%20Something%20Great&fontSize=14&fontColor=a78bfa&fontAlignY=65" />
+
+</div>
