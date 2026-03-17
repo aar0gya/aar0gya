@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Aarogya%20Bikram%20Thapa&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20Engineer%20%E2%80%A2%20Data%20Scientist%20%E2%80%A2%20Full-Stack%20Developer&descAlignY=58&descSize=16&descColor=a78bfa" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Aarogya%20Bikram%20Thapa&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Engineer%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20Mobile%20Developer&descAlignY=58&descSize=16&descColor=a78bfa" />
 
 <br/>
 
@@ -12,9 +12,9 @@
 
 ---
 
-## 🧠 `> whoami`
+## `> whoami`
 
-```bash
+```
 AI/ML-focused Software Engineer with a background in Computer Systems Engineering.
 
 I design and deploy intelligent systems using machine learning, NLP, and data-driven architectures — from model training to production-ready applications.
@@ -32,122 +32,156 @@ Bridging the gap between data science and real-world scalable software.
 
 💼 Open to AI Engineer / Machine Learning Engineer / Data Scientist roles
 
-🧠 AI / ML Highlights
+---
 
-Developed and deployed NLP-based classification systems
+## AI/ML Highlights
 
-Built real-time sentiment analysis pipelines for financial data
+- Developed and deployed NLP-based classification systems
 
-Strong experience in data preprocessing, feature engineering, and model evaluation
+- Built real-time sentiment analysis pipelines for financial data
 
-Created interactive ML dashboards for data-driven decision making
+- Strong experience in data preprocessing, feature engineering, and model evaluation
 
-Combined full-stack engineering with ML systems for production-ready apps
+- Created interactive ML dashboards for data-driven decision making
 
-🚀 Featured Projects
+- Combined full-stack engineering with ML systems for production-ready apps
 
-Focused on real-world AI applications, data pipelines, and deployable machine learning systems.
+---
 
-🧠 Fake News Prediction — NLP Classification System
+## 🚀 Featured Projects
 
-Python Scikit-learn NLP TF-IDF Streamlit
+> Focused on real-world AI applications, data pipelines, and deployable machine learning systems.
+
+<br/>
+
+### 🗞️ [Fake News Prediction](https://fake-news-prediction-brp3oqtbdsj5jd9pithszn.streamlit.app/) — ML / NLP Dashboard
+> `Python` `NLP` `Machine Learning` `Streamlit` `Jupyter`
 
 Built an end-to-end NLP pipeline to classify news as real or fake using feature extraction and supervised learning models. Includes preprocessing, vectorization, model evaluation, and deployment.
 
-🔗 https://fake-news-prediction-brp3oqtbdsj5jd9pithszn.streamlit.app/
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Streamlit-ff4b4b?style=flat-square)](https://fake-news-prediction-brp3oqtbdsj5jd9pithszn.streamlit.app/)
+[![Repo](https://img.shields.io/badge/GitHub-Repository-24292f?style=flat-square&logo=github)](https://github.com/aar0gya/fake-news-prediction)
 
-🔗 https://github.com/aar0gya/fake-news-prediction
+---
 
-📈 Stock News Sentiment Analysis — Financial NLP Engine
-
-Python NLTK VADER Pandas Matplotlib Streamlit
+### 📈 [Stock News Sentiment Analysis](https://stock-news-sentiment-analysis-fzx7qmxy27r8jt7immruik.streamlit.app/) — Financial Intelligence Tool
+> `Python` `NLTK VADER` `Pandas` `Matplotlib` `Finviz`
 
 Designed a real-time sentiment analysis system that scrapes financial news and evaluates market sentiment for stock tickers, visualizing trends for investment insights.
 
-🔗 https://stock-news-sentiment-analysis-fzx7qmxy27r8jt7immruik.streamlit.app/
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Streamlit-ff4b4b?style=flat-square)](https://stock-news-sentiment-analysis-fzx7qmxy27r8jt7immruik.streamlit.app/)
+[![Repo](https://img.shields.io/badge/GitHub-Repository-24292f?style=flat-square&logo=github)](https://github.com/aar0gya/Stock-News-Sentiment-Analysis)
 
-🔗 https://github.com/aar0gya/Stock-News-Sentiment-Analysis
+---
 
-🧪 (Upcoming) Customer Churn Prediction System
+### 🛒 [APEX KICKS](https://apex-kicks.vercel.app/) — Full-Stack E-Commerce Platform
+> `React` `Node.js` `PostgreSQL` `Stripe` `Clerk Auth` `Express`
 
-Python Scikit-learn Pandas Flask
+A production-ready **premium sneaker store** with Stripe payment processing, Clerk authentication, admin dashboard, and transactional emails. End-to-end e-commerce solution built for scale.
 
-Building a predictive ML system to identify customer churn using classification models, feature engineering, and performance evaluation (ROC, confusion matrix).
+[![Live Demo](https://img.shields.io/badge/Live_Demo-apex--kicks.vercel.app-7c3aed?style=flat-square)](https://apex-kicks.vercel.app/)
+[![Repo](https://img.shields.io/badge/GitHub-Repository-24292f?style=flat-square&logo=github)](https://github.com/aar0gya/apex-kicks)
 
-🤖 (Upcoming) AI Document Assistant (RAG-based)
+---
 
-Python LangChain FAISS LLM
+### 💬 [Chat App](https://chat-app-fullstack-g0zc.onrender.com/) — Real-Time Messaging Platform
+> `React` `Node.js` `Express` `MongoDB` `Socket.io`
 
-Developing an AI-powered document Q&A system using embeddings and vector search, enabling users to query PDFs intelligently.
+A **full MERN stack** real-time chat application with live messaging, profile management, customizable themes, and responsive UI. Deployed on Render.
 
-🛒 APEX KICKS — Full-Stack E-Commerce Platform
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Render-00979d?style=flat-square)](https://chat-app-fullstack-g0zc.onrender.com/)
+[![Repo](https://img.shields.io/badge/GitHub-Repository-24292f?style=flat-square&logo=github)](https://github.com/aar0gya/chat-app)
 
-React Node.js PostgreSQL Stripe
+---
 
-A production-ready e-commerce platform with authentication, payments, admin dashboard, and scalable backend — demonstrating strong system design and deployment.
+### 🐦 [Twitter Clone](https://github.com/aar0gya/twitter-clone-rn) — Social Network App
+> `React` `React Native` `Node.js` `Express` `MongoDB` `WebSockets`
 
-🔗 https://apex-kicks.vercel.app/
+Full-stack **Twitter/X clone** with timeline feeds, trending topics, notifications, direct messaging, and profile management — using the complete MERN + Sockets stack.
 
-🔗 https://github.com/aar0gya/apex-kicks
+[![Repo](https://img.shields.io/badge/GitHub-Repository-24292f?style=flat-square&logo=github)](https://github.com/aar0gya/twitter-clone-rn)
 
-💬 Real-Time Chat App — Scalable Messaging System
+---
 
-React Node.js Socket.io MongoDB
+### 🎮 [Quizzy](https://quizzy-j6cz.onrender.com) — Full-Stack Quiz Game
+> `Python` `Flask` `SQLite` `JavaScript`
 
-A full-stack real-time messaging platform with live communication, user profiles, and responsive UI.
+Mobile-responsive **quiz platform** with multiple subjects, animated UI, sound effects, and a persistent leaderboard. Full-stack Python/Flask backend.
 
-🔗 https://chat-app-fullstack-g0zc.onrender.com/
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Render-00979d?style=flat-square)](https://quizzy-j6cz.onrender.com)
+[![Repo](https://img.shields.io/badge/GitHub-Repository-24292f?style=flat-square&logo=github)](https://github.com/aar0gya/quizzy)
 
-🔗 https://github.com/aar0gya/chat-app
+---
 
-🧰 Tech Stack
+## 🧰 Tech Stack
+
 <div align="center">
-🧠 AI / ML / Data Science
 
+### AI / ML / Data
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 
+### Frontend & Mobile
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
+### Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-
-
-
-
-
-
-
-⚙️ Backend & APIs
-
-
-
-
-
-
-🗄️ Databases
-
-
-
-
-
-
-🌐 Frontend & Mobile
-
-
-
-
-
-
-
-
-🚀 Tools & Deployment
-
-
-
-
-
+### DevOps & Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-00979D?style=for-the-badge&logo=render&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 
 </div>
-📊 GitHub Stats
-<div align="center"> <img height="160" src="https://github-readme-stats.vercel.app/api?username=aar0gya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9" /> <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aar0gya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" /> </div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=aar0gya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aar0gya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" />
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=aar0gya&theme=tokyonight&hide_border=true&background=0D1117&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=Open%20to%20Opportunities%20—%20Let's%20Build%20Something%20Great&fontSize=14&fontColor=a78bfa&fontAlignY=65" />
+
+</div>
+
 🎯 What I Bring
 
 ✅ Strong foundation in Machine Learning & Data Science
@@ -157,5 +191,3 @@ A full-stack real-time messaging platform with live communication, user profiles
 ✅ Experience with real-world problem solving using data
 
 ✅ Clean, scalable, and production-ready code practices
-
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=Open%20to%20AI%2FML%20Opportunities%20%E2%80%94%20Let%27s%20Build%20Intelligent%20Systems&fontSize=14&fontColor=a78bfa&fontAlignY=65" /> </div> ```
