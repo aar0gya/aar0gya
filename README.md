@@ -10,9 +10,8 @@
 
 Frontend-focused full-stack engineer building production-grade web and mobile apps. I write clean, performant JavaScript/TypeScript and ship features that scale — from pixel-perfect UIs to robust REST APIs.
 
-- 🔭 Currently building: **[apex-kicks](https://apex-kicks.vercel.app/)** — full-stack e-commerce platform
 - 💼 Open to: **Frontend · Full-Stack JS · React Developer** roles — remote or Nepal-based
-- 🎓 B.Sc. Computing, University of Sunderland — GPA 3.6/4.0 (2025)
+- 🎓 B.Sc. Computing, University of Sunderland (2025)
 - 📍 Bharatpur, Nepal
 
 ---
@@ -26,7 +25,7 @@ Frontend-focused full-stack engineer building production-grade web and mobile ap
 `Node.js` `Express.js` `MongoDB` `PostgreSQL` `Redis` `Firebase` `Socket.io` `REST APIs`
 
 **Mobile**
-`React Native` `Flutter / Dart` `Expo`
+`React Native` `Expo`
 
 **Tools**
 `Git` `Vercel` `Render` `Stripe` `Clerk` `Postman` `Figma`
