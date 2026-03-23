@@ -10,7 +10,8 @@
 
 Frontend-focused full-stack engineer building production-grade web and mobile apps. I write clean, performant JavaScript/TypeScript and ship features that scale — from pixel-perfect UIs to robust REST APIs.
 
-- 💼 Open to: **Frontend · Full-Stack JS · React Developer** roles — remote or Nepal-based
+- 🔭 Currently building: **[apex-kicks](https://apex-kicks.vercel.app/)** — full-stack e-commerce platform
+- 💼 Open to: **Frontend · Full-Stack JS · React Developer** roles — remote or Nepal-based (on-site)
 - 🎓 B.Sc. Computing, University of Sunderland (2025)
 - 📍 Bharatpur, Nepal
 
@@ -19,16 +20,28 @@ Frontend-focused full-stack engineer building production-grade web and mobile ap
 ## Tech Stack
 
 **Frontend**
-`React` `Next.js` `TypeScript` `JavaScript (ES6+)` `Tailwind CSS` `shadcn/ui` `HTML/CSS`
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css" />
+</p>
 
 **Backend & Database**
-`Node.js` `Express.js` `MongoDB` `PostgreSQL` `Redis` `Firebase` `Socket.io` `REST APIs`
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,redis,firebase" />
+</p>
 
 **Mobile**
-`React Native` `Expo`
 
-**Tools**
-`Git` `Vercel` `Render` `Stripe` `Clerk` `Postman` `Figma`
+<p>
+  <img src="https://skillicons.dev/icons?i=react" />
+</p>
+
+**Tools & Platforms**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,figma,postman,vscode" />
+</p>
 
 ---
 
